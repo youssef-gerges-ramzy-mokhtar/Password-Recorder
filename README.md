@@ -1,5 +1,5 @@
 # Password-Recorder
-This is a very simple console python program to store user credentials into a text file.
+This is a very simple console python program to store user credentials into a text file. \
 Note after some experience this approach is insecure so never store your passwords in plain text files, better use a software like KeePassXC to mange your passwords.
 
 ## Screenshots
